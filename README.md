@@ -42,46 +42,8 @@ Reverberation times $\tau_{60}$ in 23 third-octave bands from $f_{m_1} = 63\text
 ## Measured reverberation times in 35 speech and language therapy rooms
 Evaluation metrics *BIC*, $R^2$, and *RMSE* for various statistical linear mixed-effects models based on twelve objective vocal quality measures using recordings captured with lavalier (left) and smartphone (right) microphones. For *BIC*, the two best values per column (or more, in the case of ties) are highlighted; for $R^2$ and *RMSE*, the three best overall values (or more, in the case of ties) are emphasized.
 
-<figure id="fig:BIC_lavallier">
-<img src="Images/Stats_Result_BIC_Lavallier.png"
-alt="BIC results for lavallier microphone" />
-<figcaption aria-hidden="true"><em>BIC</em> results for lavallier
-microphone</figcaption>
-</figure>
-
-<figure id="fig:BIC_smartphone">
-<img src="Images/Stats_Result_BIC_Smartphone.png"
-alt="BIC results for smartphone microphone" />
-<figcaption aria-hidden="true"><em>BIC</em> results for smartphone
-microphone</figcaption>
-</figure>
-
-<figure id="fig:R2_lavallier">
-<img src="Images/Stats_Result_R2_Lavallier.png"
-alt="R^2 results for lavallier microphone" />
-<figcaption aria-hidden="true"><span
-class="math inline"><em>R</em><sup>2</sup></span> results for lavallier
-microphone</figcaption>
-</figure>
-
-<figure id="fig:R2_smartphone">
-<img src="Images/Stats_Result_R2_Smartphone.png"
-alt="R^2 results for smartphone microphone" />
-<figcaption aria-hidden="true"><span
-class="math inline"><em>R</em><sup>2</sup></span> results for smartphone
-microphone</figcaption>
-</figure>
-
-<figure id="fig:RMSE_lavallier">
-<img src="Images/Stats_Result_RMSE_Lavallier.png"
-alt="RMSE results for lavallier microphone" />
-<figcaption aria-hidden="true"><em>RMSE</em> results for lavallier
-microphone</figcaption>
-</figure>
-
-<figure id="fig:RMSE_smartphone">
-<img src="Images/Stats_Result_RMSE_Smartphone.png"
-alt="RMSE results for smartphone microphone" />
-<figcaption aria-hidden="true"><em>RMSE</em> results for smartphone
-microphone</figcaption>
-</figure>
+|<!-- -->|<!-- -->|<!-- -->|
+|:----|:----|-----:|
+|![](Images/Stats_Result_BIC_Lavallier.png) <em>BIC</em> results for lavallier|![](Images/Stats_Result_BIC_Smartphone.png) <em>BIC</em> results for smartphone microphone|![](Images/BIC.png)|
+|![](Images/Stats_Result_R2_Lavallier.png) <em>R</em><sup>2</sup></span> results for lavallier microphone|![](Images/Stats_Result_R2_Smartphone.png) <em>R</em><sup>2</sup></span> results for smartphone microphone|![](Images/R2.png)|
+|![](Images/Stats_Result_RMSE_Lavallier.png) <em>RMSE</em> results for lavallier microphone|![](Images/Stats_Result_RMSE_Smartphone.png) <em>RMSE</em> results for smartphone microphone|![](Images/RMSE.png)|
