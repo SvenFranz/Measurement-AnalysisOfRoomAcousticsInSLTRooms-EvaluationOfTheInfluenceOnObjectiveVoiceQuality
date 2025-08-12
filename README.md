@@ -1,1 +1,1 @@
-# Measurement-AnalysisOfRoomAcousticsInSLTRooms-EvaluationOfTheInfluenceOnObjectiveVoiceQuality
+# Measurement and Analysis of Relevant Room Acoustic Parameters in Speech and Language Therapy Rooms and Evaluation of Their Influence on Objective Voice Quality Metrics
