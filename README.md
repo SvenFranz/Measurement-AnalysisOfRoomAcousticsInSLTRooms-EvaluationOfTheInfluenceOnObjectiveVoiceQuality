@@ -1,5 +1,5 @@
 ## Measured reverberation times in 35 speech and language therapy rooms
-Reverberation times $$\tau_{60}$$ in 23 third-octave bands from $$f_{m_1} = 63\text{ Hz}$$ to $$f_{m_{23}} = 8\text{ kHz}$$ of room acoustic measurements in speech and language therapy rooms, broken down by institution and room number. Reverberation times that fall within the tolerance corridors for rooms with a volume of $$V = 30 \text{ to } 80 \text{ m}^3$$ in **usage group A3** and **`usage group A4`** according to *DIN 18041:2016-03* are highlighted in color.
+Reverberation times {% raw %}$$\tau_{60}$$ {% endraw %} in 23 third-octave bands from $$f_{m_1} = 63\text{ Hz}$$ to $$f_{m_{23}} = 8\text{ kHz}$$ of room acoustic measurements in speech and language therapy rooms, broken down by institution and room number. Reverberation times that fall within the tolerance corridors for rooms with a volume of $$V = 30 \text{ to } 80 \text{ m}^3$$ in **usage group A3** and **`usage group A4`** according to *DIN 18041:2016-03* are highlighted in color.
 
 |Institution|Room|63 Hz|80 Hz|100 Hz|125 Hz|160 Hz|200 Hz|250 Hz|315 Hz|400 Hz|500 Hz|630 Hz|800 Hz|1000 Hz|1250 Hz|1600 Hz|2000 Hz|2500 Hz|3150 Hz|4000 Hz|5000 Hz|8000 Hz|
 |:----|:----|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|
