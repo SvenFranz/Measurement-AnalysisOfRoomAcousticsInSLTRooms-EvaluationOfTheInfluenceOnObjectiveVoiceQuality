@@ -1,7 +1,40 @@
 <script type="text/javascript" async
  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-   
+## Measured Impulse Responses
+The audio files contain three consecutive, level-matched impulse responses of the measured therapy rooms, with the following assignment:
+
+- Channel 1: DPA 4006-TL Studio Microphone with DD0251 free-field grid
+- Channel 2: RODE WIRELESS PRO lavalier microphone
+- Channel 3: Motorola moto g84 5G (XT2347-2) smartphone microphone
+
+**Inst. 01:** [Room 01](Samples/Institution_01_Room_01_IRs.wav), [Room 02](Samples/Institution_01_Room_02_IRs.wav), [Room 03](Samples/Institution_01_Room_03_IRs.wav), [Room 04](Samples/Institution_01_Room_04_IRs.wav), [Room 05](Samples/Institution_01_Room_05_IRs.wav), [Room 06](Samples/Institution_01_Room_06_IRs.wav), [Room 07](Samples/Institution_01_Room_07_IRs.wav)  
+**Inst. 02:** [Room 01](Samples/Institution_02_Room_01_IRs.wav), [Room 02](Samples/Institution_02_Room_02_IRs.wav), [Room 03](Samples/Institution_02_Room_03_IRs.wav), [Room 04](Samples/Institution_02_Room_04_IRs.wav), [Room 05](Samples/Institution_02_Room_05_IRs.wav), [Room 06](Samples/Institution_02_Room_06_IRs.wav), [Room 07](Samples/Institution_02_Room_07_IRs.wav), [Room 08](Samples/Institution_02_Room_08_IRs.wav)  
+**Inst. 03:** [Room 01](Samples/Institution_03_Room_01_IRs.wav), [Room 02](Samples/Institution_03_Room_02_IRs.wav), [Room 03](Samples/Institution_03_Room_03_IRs.wav), [Room 04](Samples/Institution_03_Room_04_IRs.wav)  
+**Inst. 04:** [Room 01](Samples/Institution_04_Room_01_IRs.wav), [Room 02](Samples/Institution_04_Room_02_IRs.wav)  
+**Inst. 05:** [Room 01](Samples/Institution_05_Room_01_IRs.wav), [Room 02](Samples/Institution_05_Room_02_IRs.wav), [Room 03](Samples/Institution_05_Room_03_IRs.wav)  
+**Inst. 06:** [Room 01](Samples/Institution_06_Room_01_IRs.wav), [Room 02](Samples/Institution_06_Room_02_IRs.wav), [Room 03](Samples/Institution_06_Room_03_IRs.wav), [Room 04](Samples/Institution_06_Room_04_IRs.wav), [Room 05](Samples/Institution_06_Room_05_IRs.wav)  
+**Inst. 07:** [Room 01](Samples/Institution_07_Room_01_IRs.wav), [Room 02](Samples/Institution_07_Room_02_IRs.wav), [Room 03](Samples/Institution_07_Room_03_IRs.wav)  
+**Inst. 08:** [Room 01](Samples/Institution_08_Room_01_IRs.wav), [Room 02](Samples/Institution_08_Room_02_IRs.wav), [Room 03](Samples/Institution_08_Room_03_IRs.wav)  
+
+## Recorded Noise Files
+The audio files contain 30 seconds of recorded background noise from the examined therapy rooms, with the following assignment:
+
+- Channel 1: DPA 4006-TL Studio Microphone with DD0251 free-field grid
+- Channel 2: RODE WIRELESS PRO lavalier microphone
+- Channel 3: Motorola moto g84 5G (XT2347-2) smartphone microphone
+
+The last 5 characters of the file name correspond to the level offset to convert the noise from dB FS to dB SPL, where `80p01` represents a gain of 08.01 dB.
+
+**Inst. 01:** [Room 01](Samples/Institution_01_Room_01]_Noises_57p25.wav), [Room 02](Samples/Institution_01_Room_02]_Noises_67p54.wav), [Room 03](Samples/Institution_01_Room_03]_Noises_82p84.wav), [Room 04](Samples/Institution_01_Room_04]_Noises_62p52.wav), [Room 05](Samples/Institution_01_Room_05]_Noises_85p36.wav), [Room 06](Samples/Institution_01_Room_06]_Noises_63p87.wav), [Room 07](Samples/Institution_01_Room_07]_Noises_71p31.wav)  
+**Inst. 02:** [Room 01](Samples/Institution_02_Room_01]_Noises_67p40.wav), [Room 02](Samples/Institution_02_Room_02]_Noises_65p04.wav), [Room 03](Samples/Institution_02_Room_03]_Noises_78p81.wav), [Room 04](Samples/Institution_02_Room_04]_Noises_51p67.wav), [Room 05](Samples/Institution_02_Room_05]_Noises_67p95.wav), [Room 06](Samples/Institution_02_Room_06]_Noises_69p41.wav), [Room 07](Samples/Institution_02_Room_07]_Noises_68p08.wav), [Room 08](Samples/Institution_02_Room_08]_Noises_59p88.wav)  
+**Inst. 03:** [Room 01](Samples/Institution_03_Room_01]_Noises_63p00.wav), [Room 02](Samples/Institution_03_Room_02]_Noises_72p98.wav), [Room 03](Samples/Institution_03_Room_03]_Noises_54p27.wav), [Room 04](Samples/Institution_03_Room_04]_Noises_56p33.wav), [Room 02](Samples/Institution_04_Room_02]_Noises_51p40.wav)  
+**Inst. 04:** [Room 01](Samples/Institution_04_Room_01]_Noises_54p41.wav)  
+**Inst. 05:** [Room 01](Samples/Institution_05_Room_01]_Noises_75p17.wav), [Room 02](Samples/Institution_05_Room_02]_Noises_66p94.wav), [Room 03](Samples/Institution_05_Room_03]_Noises_58p68.wav)  
+**Inst. 06:** [Room 01](Samples/Institution_06_Room_01]_Noises_54p41.wav), [Room 02](Samples/Institution_06_Room_02]_Noises_58p10.wav), [Room 03](Samples/Institution_06_Room_03]_Noises_61p11.wav), [Room 04](Samples/Institution_06_Room_04]_Noises_59p65.wav), [Room 05](Samples/Institution_06_Room_05]_Noises_60p64.wav)  
+**Inst. 07:** [Room 01](Samples/Institution_07_Room_01]_Noises_55p72.wav), [Room 02](Samples/Institution_07_Room_02]_Noises_62p23.wav), [Room 03](Samples/Institution_07_Room_03]_Noises_62p22.wav)  
+**Inst. 08:** [Room 01](Samples/Institution_08_Room_01]_Noises_50p45.wav), [Room 02](Samples/Institution_08_Room_02]_Noises_63p47.wav), [Room 03](Samples/Institution_08_Room_03]_Noises_53p58.wav)
+
 ## Measured reverberation times in 35 speech and language therapy rooms
 Reverberation times $$\tau_{60}$$ in 23 third-octave bands from $$f_{m_1} = 63\text{ Hz}$$ to $$f_{m_{23}} = 8\text{ kHz}$$ of room acoustic measurements in speech and language therapy rooms, broken down by institution and room number. Reverberation times that fall within the tolerance corridors for rooms with a volume of $$V = 30 \text{ to } 80 \text{ m}^3$$ in **usage group A3** and **`usage group A4`** according to *DIN 18041:2016-03* are highlighted in color.
 
